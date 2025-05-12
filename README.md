@@ -106,10 +106,10 @@ SecureNodeJWTAuth is a robust authentication and authorization system built usin
 
 ```bash
 # Clone the repo
-git clone https://github.com/RKUsamaAli/Secure-Node-JWT-Auth.git
+git clone https://github.com/RKUsamaAli/Login-Registration-RBAC-with-Node.js.git
 
 # Navigate to project
-cd SecureNodeJWTAuth
+cd Login-Registration-RBAC-with-Node
 
 # Install dependencies
 npm install
