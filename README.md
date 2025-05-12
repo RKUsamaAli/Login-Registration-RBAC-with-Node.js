@@ -21,7 +21,7 @@ SecureNodeJWTAuth is a robust authentication and authorization system built usin
 ## 🧪 Postman Collection
 
 > A complete Postman collection is included to test all authentication and authorization endpoints easily.  
-> Import `SecureNodeJWTAuth.postman_collection.json` into your Postman app to get started.
+> Import `Secure Node JWT Auth.postman_collection.json` into your Postman app to get started.
 
 ---
 
@@ -106,7 +106,7 @@ SecureNodeJWTAuth is a robust authentication and authorization system built usin
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/SecureNodeJWTAuth.git
+git clone https://github.com/RKUsamaAli/Secure-Node-JWT-Auth.git
 
 # Navigate to project
 cd SecureNodeJWTAuth
