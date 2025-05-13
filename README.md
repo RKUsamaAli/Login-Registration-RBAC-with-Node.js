@@ -1,4 +1,4 @@
-# 🔐 Login Registration RBAC with Node.js
+# 🔐 Login Registration & Role-Based-Access-Control with Node.js
 
 Advanced JWT Authentication & Role-Based Authorization with Node.js and Express.
 
