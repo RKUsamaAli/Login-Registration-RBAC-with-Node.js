@@ -78,7 +78,7 @@ SecureNodeJWTAuth is a robust authentication and authorization system built usin
 ## 📦 Project Structure
 
 ```
-/SecureNodeJWTAuth
+/Login-Registration-RBAC-with-Node
 ├── controllers/
 ├── middlewares/
 ├── models/
